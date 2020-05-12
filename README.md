@@ -1,4 +1,4 @@
-# __SIFT__
+# __SIFT (Image processing)
 
 ## Introduction
 
