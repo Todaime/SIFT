@@ -6,4 +6,4 @@ This project was created to study and implement a well-known object recognition 
 
 ## Result
 
-<img src="Recognition.png" width="600"> <img src="./BASE_DONNEES/Candide.png" width="300">
+<img src="Recognition.png" width="500" title="Recognition of the object"> <img src="./BASE_DONNEES/Candide.png" width="250" title="Object to recognize">
